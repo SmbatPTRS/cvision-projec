@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app-logo {
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+  margin-bottom: 8px;
+  border-radius: 300px;
+}
+
