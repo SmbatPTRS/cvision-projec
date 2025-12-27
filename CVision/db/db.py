@@ -8,7 +8,7 @@ from utils.helpers import L2_normalize
 DB_PARAMS = {
     "dbname": "postgres",
     "user": "postgres",
-    "password": "123123123",# example password 123
+    "password": "",# example password 123
     "host": "localhost",
     "port": "5432",
 }
