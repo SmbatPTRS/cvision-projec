@@ -76,7 +76,7 @@ Logging, helper functions, and shared configurations.
 cd cvision
 
 
-4. Run the application:
+3. Run the application:
 
 
 python main.py
