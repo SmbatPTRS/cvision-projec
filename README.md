@@ -21,7 +21,7 @@ The system demonstrates backend architecture design combined with data extractio
 ---
 
 ## System Architecture
-
+```
 The project follows a modular structure separating responsibilities into independent components.
 CVision/
 │
@@ -32,7 +32,7 @@ CVision/
 ├── utils/ → Helper utilities and logging
 ├── CVs/ → Sample CV files
 └── frontend/ → Interface components
-
+```
 
 
 ---
